@@ -1,0 +1,14 @@
+layout_spectrum: 0.2953200051560998
+typography_spectrum: 0.7157955628354102
+color:
+  brandStrength: 0.771248702192679
+  lightness: 0.6583411430474371
+  saturation: 0.09056841093115509
+  rhythmicContrast: 0.9943970907479525
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: netbrandstudio
