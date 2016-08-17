@@ -6,9 +6,9 @@ color:
   saturation: 0.09056841093115509
   rhythmicContrast: 0.9943970907479525
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
 name: netbrandstudio
